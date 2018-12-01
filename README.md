@@ -7,6 +7,12 @@ Lately, I have a project with a country select list in multi-language(chinese,en
 
 
 
+json file:
+
+https://raw.githubusercontent.com/zhaoweih/countries_json/master/countries.json
+
+
+
 Thanks to:
 
 https://restcountries.eu/
