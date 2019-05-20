@@ -9,6 +9,28 @@ countries name json file in multi-language
 
 Lately, I have a project with a country select list in multi-language(chinese,english,french,italian,spanish,japanese,russian,germen),but I can't find a good api or json data from Internet.So I create one for myself using java script,If anyone face the same problem like me, You can take this json file and save your time.Haha...
 
+Example:
+
+``` json
+[
+{
+    "abbr": "AF",
+    "chinese": "阿富汗",
+    "code": "93",
+    "english": "Afghanistan",
+    "spell": "afuhan",
+    "state": "亚洲",
+    "french": "Afghanistan",
+    "italian": "Afghanistan",
+    "spanish": "Afganistán",
+    "japanese": "アフガニスタン",
+    "russian": "Афганистан",
+    "germen": "Afghanistan"
+},
+...
+]
+```
+
 
 
 json文件 ：
